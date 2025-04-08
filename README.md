@@ -17,7 +17,7 @@ Here are the languages and tools I’ve been working with:
 - **Programming Languages:** Java, Python, JavaScript, PHP  
 - **Frontend:** HTML, CSS  
 - **Databases:** SQL, MongoDB  
-- **Others:** Git, VS Code, Jupyter Notebook
+- **Others:** Git, VS Code, Jupyter Notebook, Microsoft Excel
 
 ---
 
@@ -28,5 +28,8 @@ I’m deeply curious about the intersection of **AI, statistics, and real-world 
 
 ### 📬 Let's Connect!
 Feel free to check out my projects and drop a message—I’m always up for collaboration or a good conversation about tech, sports, or anything in between!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerico%20Lim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerico-lim-457b8219a/)
+
+<a href="https://www.linkedin.com/in/jerico-lim-457b8219a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
