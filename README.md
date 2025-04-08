@@ -8,7 +8,7 @@
 ### 🧠 About Me
 📊 I love turning raw data into powerful stories that drive smarter decisions—especially in the world of sports.  
 ⚽🏀📈 Whether it's game-day predictions or performance insights, I’m always game to dive into the numbers.  
-💼 **Microsoft Excel** and spreadsheets are my go-to tools for data analysis and visualization. I enjoy using Excel to manipulate data, create pivot tables, and build complex formulas for deeper insights.
+💼 **Microsoft Excel** and spreadsheets are my go-to tools for data analysis and visualization. 
 
 ---
 
