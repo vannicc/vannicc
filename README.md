@@ -7,7 +7,8 @@
 
 ### 🧠 About Me
 📊 I love turning raw data into powerful stories that drive smarter decisions—especially in the world of sports.  
-⚽🏀📈 Whether it's game-day predictions or performance insights, I’m always game to dive into the numbers.
+⚽🏀📈 Whether it's game-day predictions or performance insights, I’m always game to dive into the numbers.  
+💼 **Microsoft Excel** and spreadsheets are my go-to tools for data analysis and visualization. I enjoy using Excel to manipulate data, create pivot tables, and build complex formulas for deeper insights.
 
 ---
 
@@ -17,7 +18,7 @@ Here are the languages and tools I’ve been working with:
 - **Programming Languages:** Java, Python, JavaScript, PHP  
 - **Frontend:** HTML, CSS  
 - **Databases:** SQL, MongoDB  
-- **Others:** Git, VS Code, Jupyter Notebook, Microsoft Excel
+- **Others:** Git, VS Code, Jupyter Notebook, **Microsoft Excel**
 
 ---
 
@@ -32,4 +33,3 @@ Feel free to check out my projects and drop a message—I’m always up for coll
 <a href="https://www.linkedin.com/in/jerico-lim-457b8219a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
