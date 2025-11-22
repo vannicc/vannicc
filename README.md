@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Jerico Lim!
 
-🎓 3rd Year Computer Science student majoring in **Machine Learning**  
+🎓 4th Year Computer Science student majoring in **Machine Learning**  
 📊 Passionate about **Data Science** and **Sports Analytics**
 
 ---
